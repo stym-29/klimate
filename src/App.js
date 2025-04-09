@@ -12,11 +12,11 @@ function App() {
         <a href="https://github.com/stym-29/Klimate">
           Download Source Code
         </a>
-        {""}| Developed by{" "}
+        {/* {""}| Developed by{" "}
         <a target="_blank" href="https://my-portfolio-six-tau-59.vercel.app/">
           Satyam Chaubey
         </a>{" "}
-        | Powered by{" "}
+        | Powered by{" "} */}
         {/* <a target="_blank" href="https://my-portfolio-six-tau-59.vercel.app/">
           SyAyLab
         </a> */}
